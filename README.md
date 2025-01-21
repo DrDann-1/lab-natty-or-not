@@ -1,17 +1,18 @@
 
-# Título do Projeto Extremamente Aesthetic ;)
+C# no dia a dia com Copilot
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Melhores Práticas de Usabilidade em C# para Desenvolvedores
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi detalhado para a IA que fosse criado um E-Book com as melhores pratica do C# no dia a dia,
+com 5 paginas de maneira a se entender um pouco mais desta poderosa ferramenta.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A IA cumpriu o seu objetivo e nos trouxe o E-Book como solicitado.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Acredito que o tema proposto é bem relevante no cenario atual.
