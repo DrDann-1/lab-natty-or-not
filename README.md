@@ -16,3 +16,5 @@ A IA cumpriu o seu objetivo e nos trouxe o E-Book como solicitado.
 
 ## 💭 Reflexão (Opcional)
 Acredito que o tema proposto é bem relevante no cenario atual.
+
+blob:https://outlook.office.com/7733e2a1-3ddb-47fe-8f26-1b6672d3a940
